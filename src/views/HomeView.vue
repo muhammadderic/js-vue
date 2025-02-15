@@ -1,3 +1,8 @@
+<script setup lang="ts">
+import CarouselCompt from '@/components/CarouselCompt.vue';
+
+</script>
+
 <template>
-  <h1>Hello Deric</h1>
+  <CarouselCompt/>
 </template>
